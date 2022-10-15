@@ -1,9 +1,9 @@
-for(let i=1; i<=10; i++){
-    for(let j=1; j<=10; j++){
-    console.log(i*j)
-}
-console.log(wholeRow)
-}
+// for(let i=1; i<=10; i++){
+//     for(let j=1; j<=10; j++){
+//     console.log(i*j)
+// }
+// console.log(wholeRow)
+// }
 
 
 
@@ -63,3 +63,8 @@ console.log(wholeRow)
 //     const firstname = mentors[i]
 //     console.log(`${firstname} is an awesome mentor`)
 // }
+
+
+
+
+// for(let i = 1; i <=10; i++){i}
